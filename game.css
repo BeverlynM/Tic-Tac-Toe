@@ -6,7 +6,7 @@ body {
 hr {
     width: 500px;
     height: 2px;
-    background-color: black;
+    background-color: rgb(200, 38, 17);
 }
 
 #board {
@@ -30,7 +30,7 @@ hr {
 }
 
 .winner {
-    background-color: lightgray;
+    background-color: lightgreen;
     color: red;
 }
 
